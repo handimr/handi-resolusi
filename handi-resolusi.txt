@@ -2,3 +2,4 @@ handi resolusi
   - kerja praktek
   - kuliah penngabdian masyarakat
   - wisuda 
+  - membuat sistem pengambilan keputusan metode SAW
